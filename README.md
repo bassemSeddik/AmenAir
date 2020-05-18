@@ -1,6 +1,7 @@
-## Welcome to AmenAir project description
+## Welcome to the AmenAir project description
 
 Here is a fisrt video that was created to present the contributions of ISET Sousse to the global effort toward the COVID-19 pandemic:
+
 {% include youtubePlayer.html id="7bfhdidPQdM" %}
 
 You can find here the team members that have contributed to this project:
