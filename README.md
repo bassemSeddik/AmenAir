@@ -1,6 +1,6 @@
 ## Welcome to AmenAir project description
 
-You can find here the team member that have contributed to this project ![Image](/images/team_w400.jpg?raw=true)
+You can find here the team member that have contributed to this project ![Image](https://github.com/bassemSeddik/AmenAir/blob/master/images/team_w400.jpg?raw=true)
 
 You can use the [editor on GitHub](https://github.com/bassemSeddik/AmenAir/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
