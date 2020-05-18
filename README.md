@@ -1,5 +1,8 @@
 ## Welcome to AmenAir project description
 
+Here is a fisrt video that was created to present the contributions of ISET Sousse to the global effort toward the COVID-19 pandemic:
+
+
 You can find here the team members that have contributed to this project:
 - **Bassem Seddik**: Ph.D., Computer Science teacher in ISET Sousse
 - **Omri Hassnaoui**: Mechanical Engineering teacher in ISET Sousse
