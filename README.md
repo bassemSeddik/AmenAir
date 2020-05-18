@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) 
 
-You can find here the team member that have contributed to this project ![Image](https://github.com/bassemSeddik/AmenAir/blob/master/images/team_w400.jpg?raw=true)
+You can find here the team member that have contributed to this project ![Image](/images/team_w400.jpg?raw=true)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
