@@ -1,6 +1,15 @@
 ## Welcome to AmenAir project description
 
-You can find here the team member that have contributed to this project ![Image](https://github.com/bassemSeddik/AmenAir/blob/master/images/team_w400.jpg?raw=true)
+You can find here the team member that have contributed to this project:
+Bassem Seddik : Ph.D., Computer Science teacher in ISET Sousse
+Omri Hassnaoui: Mechanical Engineering teacher in ISET Sousse
+Ahmed Anis Kahloul: Ph.D., Electrical Engineering teacher in ISET Sousse
+Jawhar Bouhlel: Professional 3D desinger, allumini from ISET Sousse
+Ghada Ghammem: 2nd level Mechnical engineering student in ISET Sousse
+Rachid El Amri: 2nd level Mechnical engineering student in ISET Sousse
+
+
+![Image](https://github.com/bassemSeddik/AmenAir/blob/master/images/team_w400.jpg?raw=true)
 
 You can use the [editor on GitHub](https://github.com/bassemSeddik/AmenAir/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
