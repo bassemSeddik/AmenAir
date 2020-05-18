@@ -1,6 +1,10 @@
 ## Welcome to AmenAir project description
 
 Here is a fisrt video that was created to present the contributions of ISET Sousse to the global effort toward the COVID-19 pandemic:
+{% include youtubePlayer.html id="7bfhdidPQdM" %}
+
+Here is the link for it 
+For more details see [Link](https://youtu.be/7bfhdidPQdM).
 
 
 You can find here the team members that have contributed to this project:
@@ -41,7 +45,7 @@ Syntax highlighted code block
 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### Jekyll Themes
 
