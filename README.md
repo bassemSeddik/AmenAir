@@ -3,18 +3,6 @@
 Here is a fisrt video that was created to present the contributions of ISET Sousse to the global effort toward the COVID-19 pandemic:
 {% include youtubePlayer.html id="7bfhdidPQdM" %}
 
-<iframe src="https://www.youtube.com/embed/{{ 7bfhdidPQdM}}" 
-    width="560" 
-    height="315"
-    frameborder="0" 
-    allowfullscreen>
-</iframe>
-
-[![The lik for th 1st project presntation on April 1st](https://i9.ytimg.com/vi/7bfhdidPQdM/mq2.jpg?sqp=CO_MiPYF&rs=AOn4CLChxl1b5jG3fgS6UrLHhS6L72KGkQ)](https://youtu.be/7bfhdidPQdM)
-
-
-
-
 You can find here the team members that have contributed to this project:
 - **Bassem Seddik**: Ph.D., Computer Science teacher in ISET Sousse
 - **Omri Hassnaoui**: Mechanical Engineering teacher in ISET Sousse
