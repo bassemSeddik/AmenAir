@@ -1,5 +1,7 @@
 ## Welcome to AmenAir project description
 
+You can find here the team member that have contributed to this project ![Image](/images/team_w400.jpg?raw=true)
+
 You can use the [editor on GitHub](https://github.com/bassemSeddik/AmenAir/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -25,7 +27,7 @@ Syntax highlighted code block
 
 [Link](url) 
 
-You can find here the team member that have contributed to this project ![Image](/images/team_w400.jpg?raw=true)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
