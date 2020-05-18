@@ -8,7 +8,7 @@ You can find here the team members that have contributed to this project:
 - **Ghada Ghammem**: 2nd level Mechanical engineering student in ISET Sousse
 - **Rachid El Amri**: 2nd level Mechanical engineering student in ISET Sousse
 
- | ![Image](https://github.com/bassemSeddik/AmenAir/blob/master/images/team_w400.jpg?raw=true)
+ > ![Image](https://github.com/bassemSeddik/AmenAir/blob/master/images/team_w400.jpg?raw=true)
 
 You can use the [editor on GitHub](https://github.com/bassemSeddik/AmenAir/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
