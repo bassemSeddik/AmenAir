@@ -1,6 +1,6 @@
 ## Welcome to the AmenAir project description
 
-Here is a fisrt video that was created to present the contributions of ISET Sousse to the global effort toward the COVID-19 pandemic:
+`1st April`: This video presenation has been made in occasion to the "Yes We Breath" challenge. It presents the contributions of ISET Sousse to the efforts within the COVID-19 pandemic. The first mentioned project is realtive to this PAPR project:
 
 {% include youtubePlayer.html id="7bfhdidPQdM" %}
 
