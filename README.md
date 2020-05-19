@@ -1,6 +1,12 @@
 ## Welcome to the AmenAir project description
 
-`1st April`: This video presenation has been made in occasion to the "Yes We Breath" challenge. It presents the contributions of ISET Sousse to the efforts within the COVID-19 pandemic. The first mentioned project is realtive to this PAPR project:
+Here is the timeline for progress into this project. The aim is to reach a production-ready consumer version that can be adopted in the first place by the medical staff being in the front line of the COVID-19 combat. Later versions are also expected to target a wider user population. 
+
+`May 19th`: This video presentation (in Arabic) makes a test use-case of the AmenAir V01 prototype. It also gives the realisation steps and the next coming improvement steps :
+
+{% include youtubePlayer.html id="https://www.youtube.com/watch?v=VA3A2Xzuxzo" %}
+
+`April 1st`: This video presenation has been made in occasion to the "Yes We Breath" challenge. It presents the contributions of ISET Sousse to the efforts within the COVID-19 pandemic. The first mentioned project is realtive to this PAPR project:
 
 {% include youtubePlayer.html id="7bfhdidPQdM" %}
 
