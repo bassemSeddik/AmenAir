@@ -4,12 +4,12 @@ Here is the timeline for progress into this project. The aim is to reach a produ
 
 `May 19th`: This video presentation (in Arabic) makes a test use-case of the AmenAir V01 prototype. It also gives the realization steps and the next coming improvement steps :
 
-{% include youtubePlayer.html id="VA3A2Xzuxzo" %}
+> {% include youtubePlayer.html id="VA3A2Xzuxzo" %}
 
 `May 5th`: Having collected the comments received from the V02, a new improved V3 version is presented here.  It is aimed at weight reduction and an optimization for the 3D printing process. This model adds support extra Ribs, so that the over-hang planes could be handled without extra support prints or inside fills. 
 The following video gives an idea about the new V03 decomposition aiming for an easier 3D printing experience. 
 
-{% include youtubePlayer.html id="Nc10ewOFw2s" %}
+> {% include youtubePlayer.html id="Nc10ewOFw2s" %}
 
 `April 28th`: Based on initial models proposed by the team member, an improved iteration has been proposed. You can find the description PFD document here-after with additional image captures :
 
@@ -18,7 +18,7 @@ The following video gives an idea about the new V03 decomposition aiming for an 
 
 `April 1st`: This video presenation has been made in occasion to the "Yes We Breath" challenge. It presents the contributions of ISET Sousse to the efforts within the COVID-19 pandemic. The first mentioned project is realtive to this PAPR project:
 
-{% include youtubePlayer.html id="7bfhdidPQdM" %}
+> {% include youtubePlayer.html id="7bfhdidPQdM" %}
 
 You can find here the team members that have contributed to this project:
 - **Bassem Seddik**: Ph.D., Computer Science teacher in ISET Sousse
