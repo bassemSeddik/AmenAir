@@ -1,4 +1,4 @@
-## Welcome to the AmenAir project description
+### Welcome to the AmenAir project description
 
 Here is the timeline for progress into this project. The aim is to reach a production-ready consumer version that can be adopted in the first place by the medical staff being in the front line of the COVID-19 combat. Later versions are also expected to target a wider user population. 
 
