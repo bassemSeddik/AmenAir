@@ -14,7 +14,7 @@ The following video gives an idea about the new V03 decomposition aiming for an 
 `April 28th`: Based on initial models proposed by the team member, an improved iteration has been proposed. You can find the description PFD document here-after with additional image captures :
 
 > ![Image](https://github.com/bassemSeddik/AmenAir/blob/master/V02/FullHelmet_Shell&Airways06.JPG?raw=true)
-> [link](https://github.com/bassemSeddik/AmenAir/blob/master/V02/Prototype%20de%20casque%20de%20purification%20PAPR.pdf)
+> [Link for the V02 description PDF document (in French)](https://github.com/bassemSeddik/AmenAir/blob/master/V02/Prototype%20de%20casque%20de%20purification%20PAPR.pdf)
 
 `April 1st`: This video presenation has been made in occasion to the "Yes We Breath" challenge. It presents the contributions of ISET Sousse to the efforts within the COVID-19 pandemic. The first mentioned project is realtive to this PAPR project:
 
