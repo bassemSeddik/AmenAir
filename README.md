@@ -1,5 +1,5 @@
 ### Welcome to the AmenAir project description
-![Image](https://github.com/bassemSeddik/AmenAir/blob/master/images/AmenAir_Logo01_1.png?raw=true)
+![Image](https://github.com/bassemSeddik/AmenAir/blob/master/images/AmenAir_Logo01_2.png?raw=true)
 
 Here is the timeline for progress into this project. The aim is to reach a production-ready consumer version that can be adopted in the first place by the medical staff being in the front line of the COVID-19 combat. Later versions are also expected to target a wider user population. 
 
