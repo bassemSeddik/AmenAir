@@ -20,7 +20,7 @@ The following video gives an idea about the new V03 decomposition aiming for an 
 
 `April 1st`: This video presenation has been made in occasion to the "Yes We Breath" challenge. It presents the contributions of ISET Sousse to the efforts within the COVID-19 pandemic. The first mentioned project is realtive to this PAPR project:
 
-> {% include youtubePlayer.html id="7bfhdidPQdM" %}
+{% include youtubePlayer.html id="7bfhdidPQdM" %}
 
 You can find here the team members that have contributed to this project:
 - **Bassem Seddik**: Ph.D., Computer Science teacher in ISET Sousse
