@@ -28,7 +28,7 @@ You can find here the team members that have contributed to this project:
 - **Omri Hassnaoui**: Mechanical Engineering teacher in ISET Sousse
 - **Ahmed Anis Kahloul**: Ph.D., Electrical Engineering teacher in ISET Sousse
 - **Jawhar Bouhlel**: Professional industrial designer, alumni from ISET Sousse
-- **Ghada Ghammem**: 2nd level Mechanical engineering student in ISET Sousse
+- **Nada Ghammem**: 2nd level Mechanical engineering student in ISET Sousse
 - **Rachid El Amri**: 2nd level Mechanical engineering student in ISET Sousse
 
  > ![Image](https://github.com/bassemSeddik/AmenAir/blob/master/images/team_w400.jpg?raw=true)
