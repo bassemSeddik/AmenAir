@@ -25,7 +25,7 @@ The following video gives an idea about the new V03 decomposition aiming for an 
 
 You can find here the team members that have contributed to this project:
 - **Bassem Seddik**: Ph.D., Computer Science teacher in ISET Sousse
-- **Omri Hassnaoui**: Mechanical Engineering teacher in ISET Sousse
+- **Omri Hassnaoui**: Prof. Agrégé, Mechanical Engineering teacher in ISET Sousse
 - **Ahmed Anis Kahloul**: Ph.D., Electrical Engineering teacher in ISET Sousse
 - **Jawhar Bouhlel**: Professional industrial designer, alumni from ISET Sousse
 - **Nada Ghammem**: 2nd level Mechanical engineering student in ISET Sousse
