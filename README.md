@@ -4,8 +4,6 @@
 Here is the timeline for progress into this project. The aim is to reach a production-ready consumer version that can be adopted in the first place by the medical staff being in the front line of the COVID-19 combat. Later versions are also expected to target a wider user population. 
 
 ## Most recent update
-https://github.com/bassemSeddik/AmenAir/blob/master/V02/electonics/select1.jpg?raw=true
-
 `May 29th`: We started checking the electronic circuits that could be implemented within the AmenAir Helmet. Thanks, are addressed to Mr. Ahmed Anis who passed a whole day testing different implementations on both the Arduino-UNO and the NANO ones. Additional possible implementations might also call to an independent microcontroller, or even relying on the basic electronic component to create a power divider circuit (among other ideas). For now, the mains functionalities we are thinking about include:
 - Different levels of fan speed according to a switch handled by the user (the helmet porter)
 - A set of LEDs to display the battery status in front of the user
