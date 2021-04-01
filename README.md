@@ -10,6 +10,7 @@ Here is the timeline for progress into this project. The aim is to reach a produ
 - Myself beeing a working member of the projet, I just got the SolidWorks surfacing certification, some extra electonics training, and I am ready for the journey. Also, I am interested in joining efforts with skilled members willing the take part of the efforts on a win-win basis. 
 > ![Image](https://github.com/bassemSeddik/AmenAir/blob/master/images/Professional-Surfacing.jpg?raw=true)
 
+## Older iterations
 `May 29th`: We started checking the electronic circuits that could be implemented within the AmenAir Helmet. Thanks, are addressed to Mr. Ahmed Anis who passed a whole day testing different implementations on both the Arduino-UNO and the NANO ones. Additional possible implementations might also call to an independent microcontroller, or even relying on the basic electronic component to create a power divider circuit (among other ideas). For now, the mains functionalities we are thinking about include:
 - Different levels of fan speed according to a switch handled by the user (the helmet porter)
 - A set of LEDs to display the battery status in front of the user
@@ -18,7 +19,6 @@ Here is the timeline for progress into this project. The aim is to reach a produ
 ![Image](https://github.com/bassemSeddik/AmenAir/blob/master/V02/electonics/select1.jpg?raw=true)
 ![Image](https://github.com/bassemSeddik/AmenAir/blob/master/V02/electonics/select2.jpg?raw=true)
 
-## Older iterations
 `May 19th`: This video presentation (in Arabic) makes a test use-case of the AmenAir V0_1_10 prototype. It also gives the realization steps and the next coming improvement steps :
 
 {% include youtubePlayer.html id="VA3A2Xzuxzo" %}
