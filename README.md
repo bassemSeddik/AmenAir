@@ -5,7 +5,7 @@ Here is the timeline for progress into this project. The aim is to reach a produ
 
 ## Most recent update
 `January 1st - up to now`: After a full-teaching first semester, this second semester of 2021 marks the retake for the project with two teams : (1) in the ISET of Sousse and (2) in the ENISo Enginering School of Sousse. We aim to launch a startup that is capable of selling the aimed product. 
-- **Team 1**: Three end of studies projects have been lauched in  electronics, informatics and mechanics. They aim at the creation of Arduino-based cicuit board, the Android related App and the new 3D design(s) for the impoved version of AmenAir PAPR.
+- **Team 1**: Three end of studies projects (licence and master) have been lauched in  electronics, informatics and mechanics. They aim at the creation of Arduino-based cicuit board, the Android related App and the new 3D design(s) for the impoved version of AmenAir PAPR.
 - **Team 2**: Two Engineers have joined the team on two more advanced tasks: The circuit integrated board conception under the Altium electronics software, and, The implementation of the SaaS logic for the IoT connected Cloud/multiplaform dedicated solution. 
 - Myself beeing a working member of the projet, I just got the SolidWorks surfacing certification, some extra electonics training, and I am ready for the journey. Also, I am interested in joining efforts with skilled members willing the take part of the efforts on a win-win basis. 
 > ![Image](https://github.com/bassemSeddik/AmenAir/blob/master/images/Professional-Surfacing.jpg?raw=true)
