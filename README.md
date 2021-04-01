@@ -4,6 +4,11 @@
 Here is the timeline for progress into this project. The aim is to reach a production-ready consumer version that can be adopted in the first place by the medical staff being in the front line of the COVID-19 combat. Later versions are also expected to target a wider user population. 
 
 ## Most recent update
+`February 1st - up to now`: After a full-teaching first semester, this second semester of 2021 marks the retake for the project with two teams : (1) in the ISET of Sousse and (2) in the ENISo Enginering School of Sousse. The aim for now is to launch a startup that capable of selling the aimed product. 
+- Team 1: 3 end of studies projects have been lauched in  electronics, informatics and mechanics. They aim at the creation of Arduino-based cicuit board, the Android related App and the new 3D design(s) for the impoved version of AmenAir PAPR.
+- Team 2: Two Engineers have joined the team on two more advanced tasks: The circuit integrated board conception under the Altium electronics software, and, The implementation of the SaaS logic for the IoT connected Cloud/multiplaform dedicated solution. 
+- Myself beeing a working member of the projet, I just got the SolidWorks surfacing certification, some extra electonics training, and I am ready for the journey. Also, I am interested in joining efforts with skilled members willing the take part of the efforts on a win-win basis. 
+
 `May 29th`: We started checking the electronic circuits that could be implemented within the AmenAir Helmet. Thanks, are addressed to Mr. Ahmed Anis who passed a whole day testing different implementations on both the Arduino-UNO and the NANO ones. Additional possible implementations might also call to an independent microcontroller, or even relying on the basic electronic component to create a power divider circuit (among other ideas). For now, the mains functionalities we are thinking about include:
 - Different levels of fan speed according to a switch handled by the user (the helmet porter)
 - A set of LEDs to display the battery status in front of the user
