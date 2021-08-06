@@ -13,7 +13,8 @@ Here is the timeline for progress into this project. The aim is to reach a produ
 - **BuTT Sousse**: The national (Bureau universitaire de Tansfert Technologique) of the university of Sousse; It is a special expertise unit that could help write an international patent for the product and dispatch the contributions of each partner accordingly. 
 
 `July 1st`: The project is oriented towards the creation of a startup named **ViZmerald** that could concretize and commercialize the product. The startup is officially defined as "a production unit specialized in the creation of respiratory electronic goods" and is officially registered within the national agency of industry, Tunsia. 
-The video here after is the one used to pitch the recent advances that include the competitors, our product innovations and the economic growth model. A business plan document is also prepared and aimed for the obtention of the National StartupAct label.:
+The video here after is the one used to pitch the recent advances that include the competitors, our product innovations and the economic growth model. A business plan document is also prepared and aimed for the obtention of the National StartupAct label:
+
 {% include youtubePlayer.html id="l8e-qxfv83E" %}
 
 `June 7th`: The project has qualified to the national innovation awards of 2021 in Tunisia (Concours National de l'Innovation (CNI-2021)). The results are still to be announced du the Covid ceremonies limitations.
