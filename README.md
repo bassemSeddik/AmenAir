@@ -4,13 +4,29 @@
 Here is the timeline for progress into this project. The aim is to reach a production-ready consumer version that can be adopted in the first place by the medical staff being in the front line of the COVID-19 combat. Later versions are also expected to target a wider user population. 
 
 ## Most recent update
+`August 6th`: A participation to a financement project has been presented in the national VRR (Valorisation des Retombées de la Recherche) financement mecanism. The project aims at the collaboration with key parteners that could help conretise the MVP prototype for the AmenAir PAPR. The parteners include:
+- **ISET Sousse**: The institution participating as a submitter of the VRR project,
+- **HPC-Group**: A plastics industrial group located in Sousse, Tunisia that has expertise in the molds creation and medical plastics injection process, 
+- **NANOMISENE laboratory**: A research lab. specilised in nanomaterials and microelectronics in Sousse, Tunisia that could help evaluate and improve the filtering quality, 
+- **LATIS laboratory**: A research lab. specilised in Aritificial Intelligence and electrical engineering in the ENISo, engineering school of Sousse, Tunisia that could help adding interactive tasks and optimise the battry lifespan of the product, 
+- **ViZmerald**: The startup newly created as a dedicated prodcution unit of the aimed product. It will help with its two engineers and production goods to integrated the CAO 3D design, to miniaturise and position the optimized electonic cards and to add the softawre layers that reside both on the mobile app and within the cloud. 
+- **BuTT Sousse**: The national (Bureau universitaire de Tansfert Technologique) of the university of Sousse; It is a special expertise unit that could help write an international patent for the product and dispatch the controbutions of each partner accordingly. 
+
+`July 1st`: The project is oriented towards the creation of a startup named **ViZmerald** that could concretise and commmecialize the product. The startup is officially defined as "a production unit specialized in the creation of respiratory electronic goods" and is offically registered within the national agency of industry, Tunsia. 
+The video here after is the one used to pitch the recent advances that include the competitors, our product innovations and the economic growth model. A business plan document is also prepared and aimed for the obtention of the National StartupAct label.:
+{% include youtubePlayer.html id="l8e-qxfv83E" %}
+
+`June 7th`: The project has qualified to the national innovation awards of 2021 in Tunisia (Concours National de l'Innovation (CNI-2021)). The results are still to be annouced du the Covid cermonies limitations.
+
+
+
+## Older iterations
 `January 1st - up to now`: After a full-teaching first semester, this second semester of 2021 marks the retake for the project with two teams : (1) in the ISET of Sousse and (2) in the ENISo Enginering School of Sousse. We aim to launch a startup that is capable of selling the aimed product. 
 - **Team 1**: Three end of studies projects (licence and master) have been lauched in  electronics, informatics and mechanics. They aim at the creation of Arduino-based cicuit board, the Android related App and the new 3D design(s) for the impoved version of AmenAir PAPR.
 - **Team 2**: Two Engineers have joined the team on two more advanced tasks: The circuit integrated board conception under the Altium electronics software, and, The implementation of the SaaS logic for the IoT connected Cloud/multiplaform dedicated solution. 
 - Myself beeing a working member of the projet, I just got the SolidWorks surfacing certification, some extra electonics training, and I am ready for the journey. Also, I am interested in joining efforts with skilled members willing the take part of the efforts on a win-win basis. 
 > ![Image](https://github.com/bassemSeddik/AmenAir/blob/master/images/Professional-Surfacing.jpg?raw=true)
 
-## Older iterations
 `May 29th`: We started checking the electronic circuits that could be implemented within the AmenAir Helmet. Thanks, are addressed to Mr. Ahmed Anis who passed a whole day testing different implementations on both the Arduino-UNO and the NANO ones. Additional possible implementations might also call to an independent microcontroller, or even relying on the basic electronic component to create a power divider circuit (among other ideas). For now, the mains functionalities we are thinking about include:
 - Different levels of fan speed according to a switch handled by the user (the helmet porter)
 - A set of LEDs to display the battery status in front of the user
